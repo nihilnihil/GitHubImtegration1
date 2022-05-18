@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Second line of source code!");
         System.out.println("Third line");
         System.out.println("Fourth line");
+        System.out.println("Third line");
+        System.out.println("Fourth line");
     }
 }
